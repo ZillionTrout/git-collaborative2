@@ -9,3 +9,7 @@ function megaCool() {
 }
 
 megaCool();
+
+function wtfFunct() {
+    console.log("I'm very scared")
+}
